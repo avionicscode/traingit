@@ -1,0 +1,4 @@
+how to display github repo size and stars.
+how to migrate github account without loosing reputations.
+how to do update pull fetch clone.
+how to clone without history .git folder only source code.

@@ -1,0 +1,39 @@
+1. `git init`: Initializes a new Git repository in the current directory.
+
+2. `git clone <repository URL>`: Creates a copy of a remote Git repository on your local machine.
+
+3. `git status`: Shows the current state of your working directory and staged changes.
+
+4. `git add <file>`: Stages changes to be committed. You can use `git add .` to stage all changes in the current directory.
+
+5. `git commit -m "commit message"`: Records the staged changes into a new commit with a descriptive message.
+
+6. `git pull`: Fetches changes from a remote repository and merges them into your current branch.
+
+7. `git push`: Pushes your local commits to a remote repository.
+
+8. `git branch`: Lists all the branches in your repository. The current branch is highlighted with an asterisk.
+
+9. `git checkout <branch>`: Switches to a different branch.
+
+10. `git checkout -b <new-branch>`: Creates a new branch and switches to it.
+
+11. `git merge <branch>`: Merges changes from another branch into the current branch.
+
+12. `git rebase <branch>`: Reapplies your local changes on top of changes from another branch.
+
+13. `git log`: Displays a log of all commits in the current branch.
+
+14. `git remote -v`: Lists all remote repositories associated with your local repository.
+
+15. `git fetch <remote>`: Fetches changes from a specific remote repository without merging them.
+
+16. `git reset <file>`: Unstages a file (removes it from the staging area).
+
+17. `git reset --hard <commit>`: Resets your working directory to a specific commit, discarding all changes after that commit.
+
+18. `git stash`: Temporarily saves your changes without committing them, allowing you to switch branches.
+
+19. `git tag <tag-name>`: Creates a new tag at the current commit.
+
+20. `git diff`: Shows the differences between your working directory and the last commit.
